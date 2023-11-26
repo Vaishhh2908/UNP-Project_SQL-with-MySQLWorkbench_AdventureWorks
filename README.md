@@ -5,7 +5,9 @@ Completed this project as part of my internship with the United Network of Profe
 This SQL project involves querying a database, likely in a retail or sales context, to extract valuable insights. The queries cover a range of analyses, including total revenue by category and region, average order value, daily sales trends, product profitability, customer count, and territory-wise sales. These queries provide a comprehensive view of the business's performance, aiding in decision-making and strategic planning. The project was completed in three stages
 
 1.Creating an Adventure Works database
+
 2.Transferring the data from the backup file to the Adventure Works database
+
 3.Writing SQL Queries
 
 Key Highlights:
