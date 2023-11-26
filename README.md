@@ -18,5 +18,5 @@ Key Highlights:
  6. Obtaining vital company information, including total customers, sales contributions from product subcategories, top items by profit, and sales by area.
  7. Taken together, these procedures show how to handle databases, manipulate data, and run analytical queries to obtain helpful insights from the Adventure Works dataset.
 
-SQL File Link: https://drive.google.com/file/d/1mVwBzcwEI62lVNT7BAa0BgyQxrXvU5S-/view?usp=sharing
-PDF Link: https://drive.google.com/file/d/1ATiHtHuznDN0PcT0HUdVsFF4rnyqa8wy/view?usp=sharing
+SQL File Link: https://drive.google.com/file/d/1ATiHtHuznDN0PcT0HUdVsFF4rnyqa8wy/view?usp=sharing
+PDF Link: https://drive.google.com/file/d/1mVwBzcwEI62lVNT7BAa0BgyQxrXvU5S-/view?usp=sharing
